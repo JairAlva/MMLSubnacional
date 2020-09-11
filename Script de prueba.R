@@ -5,4 +5,4 @@ y = c("Cerca", "lejos")
 
 z = c("Carro", "Avion")
 
-w = C
+w = C("Incas", "Españoles")
