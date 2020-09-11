@@ -1,4 +1,4 @@
 #script de prueba
 x = c("America", "Europa")
 
-y =
+y = c("Cerca", "lejos")
